@@ -1,0 +1,8 @@
+ros-kinetic-genrs (0.1.0-1xenial) xenial; urgency=high
+
+  * Create Rust message generation based on gencpp
+  * Contributors: Adnan Ademovic
+
+ -- Adnan Ademovic <adnanademovic100@gmail.com>  Wed, 04 Jan 2017 23:00:00 -0000
+
+
